@@ -47,7 +47,7 @@ contract MasterChefV2 is Ownable, ReentrancyGuard {
         uint16 depositFeeBP;      // Deposit fee in basis points
     }
 
-    // The EGG TOKEN!
+    // The MEW TOKEN!
     MewToken public egg;
     // Dev address.
     address public devaddr;
