@@ -1,4 +1,4 @@
-const PikachuToken = artifacts.require("PikachuToken");
+const MewToken = artifacts.require("MewToken");
 const Timelock = artifacts.require("Timelock");
 const Multicall = artifacts.require("Multicall");
 const MasterChefV2 = artifacts.require("MasterChefV2");

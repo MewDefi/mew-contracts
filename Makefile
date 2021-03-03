@@ -22,10 +22,10 @@ test-deploy-force: deps
 	truffle migrate --network testnet --reset
 
 verify: deps
-	truffle run verify PikachuToken MasterChefV2 Timelock --network mainnet
+	truffle run verify MewToken MasterChefV2 Timelock --network mainnet
 
 test-verify: deps
-	truffle run verify PikachuToken MasterChefV2 Timelock --network testnet
+	truffle run verify MewToken MasterChefV2 Timelock --network testnet
 
 console: deps
 	truffle console --network mainnet
