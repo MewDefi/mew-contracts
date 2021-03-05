@@ -7,6 +7,6 @@ module.exports = async function (deployer) {
   let mew = await MewToken.deployed();
   let chef = await MasterChefV2.deployed();
 
-  await mew.mint("100000000000000000000000");
+  await mew.mint("50000000000000000000000");
   await mew.transferOwnership(chef.address);
 };

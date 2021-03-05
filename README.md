@@ -2,15 +2,6 @@
 
 https://mewdefi.com Feel free to read the code. More details coming soon.
 
-## Deployed Contracts
-
-### BSC MAINNET
-
-- MewToken - https://bscscan.com/token/0xd592Dfe9E1B687B1D9dbDacf5b9F0789CC9Cd584
-- MasterChefV2 - https://bscscan.com/address/0x8881C9E351482dDf0F3186A33fb40E28c0a52A26
-- Timelock - https://bscscan.com/address/0xC60C837b5618E6259D8cb93096C860472bc5921A
-- MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb
-
 ## Deployment
 
 ### ENV Variables
